@@ -1,2 +1,2 @@
 # NateDotNet_FrontEnd
-My personale Blog's FrontEnd
+My personale  blog's frontEnd
